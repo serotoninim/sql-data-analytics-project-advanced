@@ -7,7 +7,7 @@ Projede kullanılan sorgular; CTE'ler (Common Table Expressions), Window Functio
 🧩 Teknik Bileşenler:
 CTE (WITH) kullanımı ile sorguları modüler ve okunabilir yazma
 
-Window Functions ile sıralı analizler (örneğin: ROW_NUMBER(), RANK(), LAG(), AVG() OVER)
+Window Functions ile sıralı analizler
 
 KPI hesaplamaları:
 
